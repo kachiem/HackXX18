@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fishing Game", "Assembly-CSharp-firstpass.csproj", "{4011A1EC-08F0-13FB-8D85-C721DB3D3FF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fishing Game", "Assembly-CSharp-Editor-firstpass.csproj", "{07CBDB89-AD33-F003-9C27-D28A9200B7A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4011A1EC-08F0-13FB-8D85-C721DB3D3FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4011A1EC-08F0-13FB-8D85-C721DB3D3FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4011A1EC-08F0-13FB-8D85-C721DB3D3FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4011A1EC-08F0-13FB-8D85-C721DB3D3FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CBDB89-AD33-F003-9C27-D28A9200B7A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CBDB89-AD33-F003-9C27-D28A9200B7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CBDB89-AD33-F003-9C27-D28A9200B7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CBDB89-AD33-F003-9C27-D28A9200B7A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
