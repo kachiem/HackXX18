@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{15975C9A-B169-3F00-F2BA-B0FE3E25D118}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/cameraBoi.cs">
+    <Files>
+      <File FileName="Assets/fish.cs" Line="102" Column="13" />
+      <File FileName="Assets/ThrowBetterThings.cs" Line="43" Column="5" />
+      <File FileName="Assets/cameraBoi.cs" Line="6" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor-firstpass PreferredExecutionTarget="Unity.Editor" />
+</Properties>
